@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: lightblue;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.section_form{
+    box-shadow: 50%;
+    border-radius: 15px;
+    width: 70%;
+    background-color: whitesmoke;
+    margin-top: 80px;
+    padding: 40px;
+}
+
+.form_ele{
+    display: flex;
+    flex-direction: column;
+}
+
+
